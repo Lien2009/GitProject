@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\training\\ADO.NET\\Ado.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CCA58F-0E11-40E6-91D8-759DB8B5E5CD}|Repositories\\Repositories.csproj|c:\\training\\ado.net\\ado.net\\repositories\\repositoriybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CCA58F-0E11-40E6-91D8-759DB8B5E5CD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositoriybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CCA58F-0E11-40E6-91D8-759DB8B5E5CD}|Repositories\\Repositories.csproj|c:\\training\\ado.net\\ado.net\\repositories\\implement\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CCA58F-0E11-40E6-91D8-759DB8B5E5CD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implement\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CCA58F-0E11-40E6-91D8-759DB8B5E5CD}|Repositories\\Repositories.csproj|c:\\training\\ado.net\\ado.net\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CCA58F-0E11-40E6-91D8-759DB8B5E5CD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CCA58F-0E11-40E6-91D8-759DB8B5E5CD}|Repositories\\Repositories.csproj|c:\\training\\ado.net\\ado.net\\repositories\\implement\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CCA58F-0E11-40E6-91D8-759DB8B5E5CD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implement\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CCA58F-0E11-40E6-91D8-759DB8B5E5CD}|Repositories\\Repositories.csproj|c:\\training\\ado.net\\ado.net\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CCA58F-0E11-40E6-91D8-759DB8B5E5CD}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D67D3C-D79D-4977-8100-65BB2AED241C}|UnitTest\\UnitTest.csproj|c:\\training\\ado.net\\ado.net\\unittest\\userserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D67D3C-D79D-4977-8100-65BB2AED241C}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\userserviceunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1DDDA4-C402-4895-8CB1-0907001126EC}|Services\\Services.csproj|c:\\training\\ado.net\\ado.net\\services\\implement\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1DDDA4-C402-4895-8CB1-0907001126EC}|Services\\Services.csproj|solutionrelative:services\\implement\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1DDDA4-C402-4895-8CB1-0907001126EC}|Services\\Services.csproj|c:\\training\\ado.net\\ado.net\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1DDDA4-C402-4895-8CB1-0907001126EC}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F137DAA4-9873-416C-B8F4-AF8ECDAC8B17}|Domain\\Domain.csproj|c:\\training\\ado.net\\ado.net\\domain\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F137DAA4-9873-416C-B8F4-AF8ECDAC8B17}|Domain\\Domain.csproj|solutionrelative:domain\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserServiceUnitTest.cs",
+              "DocumentMoniker": "C:\\training\\ADO.NET\\Ado.Net\\UnitTest\\UserServiceUnitTest.cs",
+              "RelativeDocumentMoniker": "UnitTest\\UserServiceUnitTest.cs",
+              "ToolTip": "C:\\training\\ADO.NET\\Ado.Net\\UnitTest\\UserServiceUnitTest.cs",
+              "RelativeToolTip": "UnitTest\\UserServiceUnitTest.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T03:18:33.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoriyBase.cs",
+              "DocumentMoniker": "C:\\training\\ADO.NET\\Ado.Net\\Repositories\\RepositoriyBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoriyBase.cs",
+              "ToolTip": "C:\\training\\ADO.NET\\Ado.Net\\Repositories\\RepositoriyBase.cs",
+              "RelativeToolTip": "Repositories\\RepositoriyBase.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T03:03:09.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\training\\ADO.NET\\Ado.Net\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\training\\ADO.NET\\Ado.Net\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:33:11.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\training\\ADO.NET\\Ado.Net\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\training\\ADO.NET\\Ado.Net\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T03:04:31.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\training\\ADO.NET\\Ado.Net\\Repositories\\Implement\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implement\\UserRepository.cs",
+              "ToolTip": "C:\\training\\ADO.NET\\Ado.Net\\Repositories\\Implement\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\Implement\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T03:03:59.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\training\\ADO.NET\\Ado.Net\\Repositories\\Implement\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implement\\Repository.cs",
+              "ToolTip": "C:\\training\\ADO.NET\\Ado.Net\\Repositories\\Implement\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Implement\\Repository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:02:57.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\training\\ADO.NET\\Ado.Net\\Services\\Implement\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Implement\\UserService.cs",
+              "ToolTip": "C:\\training\\ADO.NET\\Ado.Net\\Services\\Implement\\UserService.cs",
+              "RelativeToolTip": "Services\\Implement\\UserService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T03:05:14.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\training\\ADO.NET\\Ado.Net\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\training\\ADO.NET\\Ado.Net\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T03:05:38.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\training\\ADO.NET\\Ado.Net\\Domain\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Domain\\UserInfo.cs",
+              "ToolTip": "C:\\training\\ADO.NET\\Ado.Net\\Domain\\UserInfo.cs",
+              "RelativeToolTip": "Domain\\UserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:07:20.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

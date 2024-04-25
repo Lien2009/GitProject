@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Domain",
+    "\\Repositories",
+    "\\Repositories\\Implement",
+    "\\Repositories\\Interfaces",
+    "\\Services",
+    "\\Services\\Implement",
+    "\\UnitTest"
+  ],
+  "SelectedNode": "\\UnitTest\\UserServiceUnitTest.cs",
+  "PreviewInSolutionExplorer": false
+}
