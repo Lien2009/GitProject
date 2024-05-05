@@ -3,14 +3,14 @@ using Domain;
 
 namespace Repositories.Interfaces
 {
-    public interface IUserRepository : IRepository<UserInfo>
+    public interface IUserRepository
     {
-        //Task<DataTable> GetAllUser(string roleName, string methodName);
-        ////Task<UserInfo> GetUserById(string id);
-        //Task<Int32> Add(UserInfo userInfo);
-        //Task<Int32> Update(UserInfo userInfo);
-        //Task<Int32> Delete(string id);
-        //Task<Int32> ActivateUsers(List<UserInfo> users);
-        //Task<Int32> DeactivateUsers(List<UserInfo> users);
+        Task<List<UserInfo>> GetAllUserAsync(int role, int method);
+        Task<UserInfo> GetUserByIdAsync(string id);
+        Task<Int32> AddAsync(UserInfo userInfo);
+        Task<Int32> UpdateAsync(UserInfo userInfo);
+        Task<Int32> DeleteAsync(string id);
+        Task<Int32> ActivateUsersAsync(List<UserInfo> users);
+        Task<Int32> DeactivateUsersAsync(List<UserInfo> users);
     }
 }
